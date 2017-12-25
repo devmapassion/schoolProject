@@ -4,6 +4,16 @@
   <title>Test Git</title>
   <meta charset="utf-8">
 </head>
+<style>
+ h1{
+ position: absolute;
+ top: 40%;
+ width: 100%;
+ text-align: center;
+ font-size: 100;
+ font-family: Helvetica;
+}
+</style>
 <body>
 <h1>
   Hi
